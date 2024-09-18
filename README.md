@@ -1,2 +1,2 @@
 # blocktory
-voxel factory builder game
+a voxel factory builder game
